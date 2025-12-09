@@ -7,7 +7,7 @@ export const seoArray = [
         page_name: "page name /",
         page_title: "Kuick Studio",
         page_description: "/ desc",
-        page_image: "https://images.unsplash.com/photo-1765154017463-5ca216ec2b67?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        page_image: "https://images.unsplash.com/photo-1543373014-cfe4f4bc1cdf?q=80&w=1348&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         page_keyword: "/ keyword.",
     },
     {
@@ -34,3 +34,4 @@ export const seoArray = [
     },
 
 ];
+
