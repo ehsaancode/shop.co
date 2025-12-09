@@ -21,11 +21,11 @@ export const seoArray = [
         page_image: "",
         page_keyword: "home keyword.",
     },
-     {
+    {
         route_path: "/About",
         site_name: "About site name",
         page_favicon:
-            "https://imgcdn.kuick.com/cms-designer/redoq-main/kuick_fav.png",
+            "https://media.com/id/1331044109/vector/us-we.jpg?s=612x612&w=0&k=20&c=jbVJSJNzOdfv1vRSVRga7lLAm9yp2dPiKATs7DfH8Nc=",
         page_name: "About",
         page_title: "About",
         page_description: "About desc",
