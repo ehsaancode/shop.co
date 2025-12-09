@@ -1,0 +1,1 @@
+import{j as e,r as s}from"./index-D5hwW72B.js";const r=()=>e.jsx(e.Fragment,{}),o=()=>{const[t,n]=s.useState("AlertToastScene");return e.jsx(e.Fragment,{children:t==="AlertToastScene"?e.jsx(r,{}):e.jsx(e.Fragment,{})})};export{o as AlertToast,o as default};

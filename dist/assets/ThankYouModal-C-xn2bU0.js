@@ -1,0 +1,1 @@
+import{j as e,r as t}from"./index-D5hwW72B.js";const a=()=>e.jsx(e.Fragment,{}),r=()=>{const[n,o]=t.useState("ThankYouModalScene");return e.jsx(e.Fragment,{children:n==="ThankYouModalScene"?e.jsx(a,{}):e.jsx(e.Fragment,{})})};export{r as ThankYouModal,r as default};

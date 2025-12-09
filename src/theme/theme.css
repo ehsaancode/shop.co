@@ -1,0 +1,24 @@
+@theme {
+     /* Breakpoints for responsive design */
+     --breakpoint-mobile: 480px;
+     --breakpoint-tablet: 640px;
+     --breakpoint-desktop: 1024px;
+     --breakpoint-largedesktop: 1920px;
+}
+
+:root {
+     /* ecommerce variables */
+     
+}
+
+[data-theme="light"] {
+     --innerpagebreadcrumbbg: #F6F5FF;
+     --primarybtcolor: #FB2E86;
+     --secondarybt: #D1725C;
+}
+
+[data-theme="dark"] {
+     --innerpagebreadcrumbbg: #F6F5FF;
+     --primarybtcolor: #FB2E86;
+     --secondarybt: #D1725C;
+}

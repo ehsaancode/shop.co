@@ -1,0 +1,1 @@
+import{j as e,r as t}from"./index-D5hwW72B.js";const s=()=>e.jsx(e.Fragment,{}),c=()=>{const[r,n]=t.useState("HeaderScene");return e.jsx(e.Fragment,{children:r==="HeaderScene"?e.jsx(s,{}):e.jsx(e.Fragment,{})})};export{c as Header,c as default};
